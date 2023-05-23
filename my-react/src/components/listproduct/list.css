@@ -1,0 +1,20 @@
+.list{
+    padding: 0 200px 40px 200px;
+
+}
+.title{
+    font-size: 30px;
+    margin-bottom: 14px;
+}
+.listproduct{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+}
+.items{
+    /* flex: 1; */
+    width: 32%;
+}
+.listproduct{
+
+}
